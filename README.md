@@ -21,4 +21,4 @@ An interactive Power BI dashboard designed to analyze employee demographics, wor
 
 ## 🛠️ Tools & Technologies Used
 * **Power BI:** Data modeling, DAX measures, interactive filtering, and visualization design.
-* **Data Source:** HR Workforce Dataset (`.xlsx`).
+* **Data Source:** HR_Analytics-4 (`.xlsx`).
