@@ -3,7 +3,7 @@
 An interactive Power BI dashboard designed to analyze employee demographics, workforce distribution, and key attrition drivers across different departments and salary slabs.
 
 ## 📊 Dashboard Preview
-> ![Dashboard Overview](screenshots/dashboard-overview.png)
+> ![Dashboard Overview](HR dashboard-overview.png)
 
 ## 🚀 Key Performance Indicators (KPIs)
 * **Total Employees:** 1.417K
