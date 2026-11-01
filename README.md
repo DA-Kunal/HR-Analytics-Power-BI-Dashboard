@@ -1,5 +1,9 @@
 # HR Analytics Dashboard
+
 An interactive Power BI dashboard designed to analyze employee demographics, workforce distribution, and key attrition drivers across different departments and salary slabs.
+
+## 📊 Dashboard Preview
+> ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ## 🚀 Key Performance Indicators (KPIs)
 * **Total Employees:** 1.417K
@@ -8,7 +12,7 @@ An interactive Power BI dashboard designed to analyze employee demographics, wor
 * **Attrition Rate:** 16.30%
 * **Average Age:** 36.94 years
 * **Average Experience:** 7.04 years
-  
+
 ## 🔍 Key Insights & Findings
 * **Department Attrition:** Highest attrition is concentrated in Administration (36%) and Sales (23%).
 * **Salary Slab Impact:** Employees in the 6–10 LPA salary range experience the highest volume of turnover, followed by the 0–3 LPA bracket.
@@ -17,4 +21,10 @@ An interactive Power BI dashboard designed to analyze employee demographics, wor
 
 ## 🛠️ Tools & Technologies Used
 * **Power BI:** Data modeling, DAX measures, interactive filtering, and visualization design.
-* **Data Source:** HR Workforce Dataset (`.xlsx`).
+* **Data Source:** HR Workforce Dataset (`.csv` / `.xlsx`).
+
+## 📁 Repository Structure
+```text
+├── dashboard/              # Contains the .pbix Power BI file
+├── screenshots/            # Visual previews of the dashboard
+└── dataset/                # Source data file
