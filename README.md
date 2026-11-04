@@ -5,6 +5,12 @@ An interactive Power BI dashboard designed to analyze employee demographics, wor
 ## 📊 Dashboard Preview
 > ![Dashboard Overview](HR%20dashboard-overview.png)
 
+## 💼 Business Requirements
+* **Identify Attrition Drivers:** Determine why employees are leaving by analyzing correlations between salary slabs, job roles, satisfaction scores, and department types.
+* **Targeted Retention Strategies:** Highlight vulnerable segments (e.g., specific age groups or experience levels like early-career professionals) to deploy targeted retention programs.
+* **Workforce Capacity Planning:** Monitor active versus total headcounts across departments (Operations, Sales, IT, etc.) to optimize hiring pipelines and resource allocation.
+* **Compensation Benchmarking:** Review turnover rates within specific salary brackets (e.g., 0–3 LPA vs. higher brackets) to evaluate and adjust competitive pay structures.
+
 ## 🚀 Key Performance Indicators (KPIs)
 * **Total Employees:** 1.417K
 * **Active Employees:** 1.186K
